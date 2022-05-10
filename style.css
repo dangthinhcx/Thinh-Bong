@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100hv;
+    background-image: linear-gradient(to right, #4daf54, #3d8880);
+}
+
+.card {
+    margin-top: 120px;
+    background-color: #272d40;
+    width: 320px;
+    height: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    color: white;
+
+}
